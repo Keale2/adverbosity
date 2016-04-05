@@ -1,0 +1,22 @@
+{
+  "name": "adverbosity",
+  "version": "1.0.0",
+  "description": "Highlight adverbs in text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keale2/adverbosity.git"
+  },
+  "author": "Kyle Wagner <Keale2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Keale2/adverbosity/issues"
+  },
+  "homepage": "https://github.com/Keale2/adverbosity#readme",
+  "dependencies": {
+    "adverbs": "0.0.2"
+  }
+}
